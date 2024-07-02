@@ -2,6 +2,8 @@
 
 Welcome to the Game Suite! This project is a collection of fun and engaging games implemented in C++. It includes Hangman, 21 Cards, Dice Game, and Quick Maths. Each game comes with its own set of rules and a colorful user interface for an enhanced gaming experience.
 
+Play Here!: [https://replit.com/@aryanpatel0705/Game-Suite
+](https://replit.com/@aryanpatel0705/Game-Suite)
 ## Table of Contents
 
 - [Game Suite](#game-suite)
